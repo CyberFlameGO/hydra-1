@@ -32,11 +32,11 @@ github.com/jackc/puddle
 # github.com/rs/xid v1.2.1
 ## explicit
 github.com/rs/xid
-# golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-## explicit; go 1.17
+# golang.org/x/crypto v0.17.0
+## explicit; go 1.18
 golang.org/x/crypto/pbkdf2
-# golang.org/x/text v0.3.7
-## explicit; go 1.17
+# golang.org/x/text v0.14.0
+## explicit; go 1.18
 golang.org/x/text/cases
 golang.org/x/text/internal
 golang.org/x/text/internal/language
